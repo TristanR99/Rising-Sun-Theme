@@ -4,6 +4,7 @@
   "displayName": "Rising Sun",
   "description": "Red and black theme",
   "version": "0.0.1",
+  "repository": "https://github.com/TristanR99/Rising-Sun-Theme",
   "engines": {
     "vscode": "^1.40.0"
   },
