@@ -6,4 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [0.0.1] Initial release - 2019-12-10
+
+### Added
+
+- Red and black active/inactive foregrounds/backgounds to sidebar, activitybar, statusbar and scrollbar
